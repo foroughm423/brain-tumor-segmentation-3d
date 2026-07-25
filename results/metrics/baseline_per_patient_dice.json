@@ -1,0 +1,442 @@
+[
+  {
+    "patient_id": "BraTS20_Training_025",
+    "tumor_voxels": 73437,
+    "dice_overall": 0.8393548130989075,
+    "dice_NCR_NET": 0.9004319906234741,
+    "dice_ED": 0.7628093957901001,
+    "dice_ET": 0.8548230528831482
+  },
+  {
+    "patient_id": "BraTS20_Training_047",
+    "tumor_voxels": 132682,
+    "dice_overall": 0.7569969296455383,
+    "dice_NCR_NET": 0.7151235938072205,
+    "dice_ED": 0.747150719165802,
+    "dice_ET": 0.8087164759635925
+  },
+  {
+    "patient_id": "BraTS20_Training_253",
+    "tumor_voxels": 43881,
+    "dice_overall": 0.7113640904426575,
+    "dice_NCR_NET": 0.5710136294364929,
+    "dice_ED": 0.7601849436759949,
+    "dice_ET": 0.8028936982154846
+  },
+  {
+    "patient_id": "BraTS20_Training_261",
+    "tumor_voxels": 248267,
+    "dice_overall": 0.6907489895820618,
+    "dice_NCR_NET": 0.6823859810829163,
+    "dice_ED": 0.7442975640296936,
+    "dice_ET": 0.6455634832382202
+  },
+  {
+    "patient_id": "BraTS20_Training_071",
+    "tumor_voxels": 154279,
+    "dice_overall": 0.5119252800941467,
+    "dice_NCR_NET": 0.033895090222358704,
+    "dice_ED": 0.744090735912323,
+    "dice_ET": 0.7577899694442749
+  },
+  {
+    "patient_id": "BraTS20_Training_287",
+    "tumor_voxels": 49010,
+    "dice_overall": 0.724073588848114,
+    "dice_NCR_NET": 0.4753464460372925,
+    "dice_ED": 0.7631238698959351,
+    "dice_ET": 0.9337505102157593
+  },
+  {
+    "patient_id": "BraTS20_Training_315",
+    "tumor_voxels": 34226,
+    "dice_overall": 0.6419253349304199,
+    "dice_NCR_NET": 0.9203192591667175,
+    "dice_ED": 0.6554568409919739,
+    "dice_ET": 0.3499999940395355
+  },
+  {
+    "patient_id": "BraTS20_Training_205",
+    "tumor_voxels": 31109,
+    "dice_overall": 0.5589074492454529,
+    "dice_NCR_NET": 0.10650887340307236,
+    "dice_ED": 0.7160754799842834,
+    "dice_ET": 0.8541379570960999
+  },
+  {
+    "patient_id": "BraTS20_Training_220",
+    "tumor_voxels": 117937,
+    "dice_overall": 0.754433810710907,
+    "dice_NCR_NET": 0.6961595416069031,
+    "dice_ED": 0.8249493837356567,
+    "dice_ET": 0.7421923875808716
+  },
+  {
+    "patient_id": "BraTS20_Training_135",
+    "tumor_voxels": 217380,
+    "dice_overall": 0.7512081265449524,
+    "dice_NCR_NET": 0.6981763243675232,
+    "dice_ED": 0.7437269687652588,
+    "dice_ET": 0.8117212057113647
+  },
+  {
+    "patient_id": "BraTS20_Training_127",
+    "tumor_voxels": 43568,
+    "dice_overall": 0.644838273525238,
+    "dice_NCR_NET": 0.21280276775360107,
+    "dice_ED": 0.889969527721405,
+    "dice_ET": 0.8317423462867737
+  },
+  {
+    "patient_id": "BraTS20_Training_363",
+    "tumor_voxels": 120394,
+    "dice_overall": 0.8859847187995911,
+    "dice_NCR_NET": 0.9026856422424316,
+    "dice_ED": 0.8491480946540833,
+    "dice_ET": 0.9061205983161926
+  },
+  {
+    "patient_id": "BraTS20_Training_324",
+    "tumor_voxels": 68293,
+    "dice_overall": 0.196686789393425,
+    "dice_NCR_NET": 0.055066078901290894,
+    "dice_ED": 0.3383074998855591,
+    "dice_ET": 0.0
+  },
+  {
+    "patient_id": "BraTS20_Training_074",
+    "tumor_voxels": 76789,
+    "dice_overall": 0.29364249110221863,
+    "dice_NCR_NET": 0.09476584196090698,
+    "dice_ED": 0.6586668491363525,
+    "dice_ET": 0.12749476730823517
+  },
+  {
+    "patient_id": "BraTS20_Training_235",
+    "tumor_voxels": 200621,
+    "dice_overall": 0.8773533701896667,
+    "dice_NCR_NET": 0.9181162714958191,
+    "dice_ED": 0.854688286781311,
+    "dice_ET": 0.8592555522918701
+  },
+  {
+    "patient_id": "BraTS20_Training_203",
+    "tumor_voxels": 89516,
+    "dice_overall": 0.7583134770393372,
+    "dice_NCR_NET": 0.5824195742607117,
+    "dice_ED": 0.8301105499267578,
+    "dice_ET": 0.8624104857444763
+  },
+  {
+    "patient_id": "BraTS20_Training_256",
+    "tumor_voxels": 172673,
+    "dice_overall": 0.6220200657844543,
+    "dice_NCR_NET": 0.4968680739402771,
+    "dice_ED": 0.6030521988868713,
+    "dice_ET": 0.7661400437355042
+  },
+  {
+    "patient_id": "BraTS20_Training_278",
+    "tumor_voxels": 107864,
+    "dice_overall": 0.3563542366027832,
+    "dice_NCR_NET": 0.18567165732383728,
+    "dice_ED": 0.5270367860794067,
+    "dice_ET": 0.0
+  },
+  {
+    "patient_id": "BraTS20_Training_282",
+    "tumor_voxels": 85121,
+    "dice_overall": 0.5724006295204163,
+    "dice_NCR_NET": 0.25613418221473694,
+    "dice_ED": 0.6655892729759216,
+    "dice_ET": 0.7954785227775574
+  },
+  {
+    "patient_id": "BraTS20_Training_109",
+    "tumor_voxels": 100724,
+    "dice_overall": 0.8581148982048035,
+    "dice_NCR_NET": 0.8349618315696716,
+    "dice_ED": 0.859231173992157,
+    "dice_ET": 0.8801515698432922
+  },
+  {
+    "patient_id": "BraTS20_Training_034",
+    "tumor_voxels": 91573,
+    "dice_overall": 0.8040251135826111,
+    "dice_NCR_NET": 0.811629593372345,
+    "dice_ED": 0.8255309462547302,
+    "dice_ET": 0.7749146819114685
+  },
+  {
+    "patient_id": "BraTS20_Training_138",
+    "tumor_voxels": 210327,
+    "dice_overall": 0.6781082153320312,
+    "dice_NCR_NET": 0.3324924111366272,
+    "dice_ED": 0.8651441335678101,
+    "dice_ET": 0.8366880416870117
+  },
+  {
+    "patient_id": "BraTS20_Training_206",
+    "tumor_voxels": 23456,
+    "dice_overall": 0.5490798354148865,
+    "dice_NCR_NET": 0.22332505881786346,
+    "dice_ED": 0.5336203575134277,
+    "dice_ET": 0.890294075012207
+  },
+  {
+    "patient_id": "BraTS20_Training_162",
+    "tumor_voxels": 107328,
+    "dice_overall": 0.8868005275726318,
+    "dice_NCR_NET": 0.8484660983085632,
+    "dice_ED": 0.9025138020515442,
+    "dice_ET": 0.9094217419624329
+  },
+  {
+    "patient_id": "BraTS20_Training_356",
+    "tumor_voxels": 42643,
+    "dice_overall": 0.7168253064155579,
+    "dice_NCR_NET": 0.8595677018165588,
+    "dice_ED": 0.4411786198616028,
+    "dice_ET": 0.8497296571731567
+  },
+  {
+    "patient_id": "BraTS20_Training_118",
+    "tumor_voxels": 52485,
+    "dice_overall": 0.8438135981559753,
+    "dice_NCR_NET": 0.7703412175178528,
+    "dice_ED": 0.874843180179596,
+    "dice_ET": 0.8862564563751221
+  },
+  {
+    "patient_id": "BraTS20_Training_029",
+    "tumor_voxels": 62354,
+    "dice_overall": 0.7811226844787598,
+    "dice_NCR_NET": 0.6136623024940491,
+    "dice_ED": 0.8973689079284668,
+    "dice_ET": 0.8323369026184082
+  },
+  {
+    "patient_id": "BraTS20_Training_167",
+    "tumor_voxels": 80769,
+    "dice_overall": 0.6324567794799805,
+    "dice_NCR_NET": 0.21270789206027985,
+    "dice_ED": 0.8495325446128845,
+    "dice_ET": 0.8351299166679382
+  },
+  {
+    "patient_id": "BraTS20_Training_343",
+    "tumor_voxels": 157400,
+    "dice_overall": 0.876635730266571,
+    "dice_NCR_NET": 0.8818438649177551,
+    "dice_ED": 0.8720613121986389,
+    "dice_ET": 0.8760020732879639
+  },
+  {
+    "patient_id": "BraTS20_Training_286",
+    "tumor_voxels": 23844,
+    "dice_overall": 0.30615103244781494,
+    "dice_NCR_NET": 0.3831883668899536,
+    "dice_ED": 0.22911371290683746,
+    "dice_ET": 0.0
+  },
+  {
+    "patient_id": "BraTS20_Training_139",
+    "tumor_voxels": 20487,
+    "dice_overall": 0.7015994191169739,
+    "dice_NCR_NET": 0.48059454560279846,
+    "dice_ED": 0.8107056021690369,
+    "dice_ET": 0.8134981989860535
+  },
+  {
+    "patient_id": "BraTS20_Training_305",
+    "tumor_voxels": 125421,
+    "dice_overall": 0.6993997693061829,
+    "dice_NCR_NET": 0.698419988155365,
+    "dice_ED": 0.7003795504570007,
+    "dice_ET": 0.0
+  },
+  {
+    "patient_id": "BraTS20_Training_237",
+    "tumor_voxels": 162397,
+    "dice_overall": 0.6059779524803162,
+    "dice_NCR_NET": 0.27871808409690857,
+    "dice_ED": 0.8247417211532593,
+    "dice_ET": 0.7144739627838135
+  },
+  {
+    "patient_id": "BraTS20_Training_301",
+    "tumor_voxels": 173216,
+    "dice_overall": 0.5950939059257507,
+    "dice_NCR_NET": 0.6008043885231018,
+    "dice_ED": 0.6584579348564148,
+    "dice_ET": 0.5260193943977356
+  },
+  {
+    "patient_id": "BraTS20_Training_365",
+    "tumor_voxels": 147861,
+    "dice_overall": 0.8855478167533875,
+    "dice_NCR_NET": 0.8827111721038818,
+    "dice_ED": 0.8657326698303223,
+    "dice_ET": 0.9081995487213135
+  },
+  {
+    "patient_id": "BraTS20_Training_274",
+    "tumor_voxels": 190251,
+    "dice_overall": 0.3708038628101349,
+    "dice_NCR_NET": 0.323932409286499,
+    "dice_ED": 0.0825095921754837,
+    "dice_ET": 0.705969512462616
+  },
+  {
+    "patient_id": "BraTS20_Training_088",
+    "tumor_voxels": 30654,
+    "dice_overall": 0.6798005700111389,
+    "dice_NCR_NET": 0.6228787899017334,
+    "dice_ED": 0.6778209805488586,
+    "dice_ET": 0.7387019395828247
+  },
+  {
+    "patient_id": "BraTS20_Training_037",
+    "tumor_voxels": 189011,
+    "dice_overall": 0.7438865303993225,
+    "dice_NCR_NET": 0.6493781208992004,
+    "dice_ED": 0.8076319694519043,
+    "dice_ET": 0.7746496200561523
+  },
+  {
+    "patient_id": "BraTS20_Training_137",
+    "tumor_voxels": 187570,
+    "dice_overall": 0.6589807868003845,
+    "dice_NCR_NET": 0.3961714506149292,
+    "dice_ED": 0.7540877461433411,
+    "dice_ET": 0.8266831636428833
+  },
+  {
+    "patient_id": "BraTS20_Training_108",
+    "tumor_voxels": 17892,
+    "dice_overall": 0.5212144255638123,
+    "dice_NCR_NET": 0.10990501940250397,
+    "dice_ED": 0.62235426902771,
+    "dice_ET": 0.8313839435577393
+  },
+  {
+    "patient_id": "BraTS20_Training_182",
+    "tumor_voxels": 42233,
+    "dice_overall": 0.7246586680412292,
+    "dice_NCR_NET": 0.600144624710083,
+    "dice_ED": 0.6859191656112671,
+    "dice_ET": 0.8879120945930481
+  },
+  {
+    "patient_id": "BraTS20_Training_190",
+    "tumor_voxels": 45281,
+    "dice_overall": 0.5148537158966064,
+    "dice_NCR_NET": 0.09314285963773727,
+    "dice_ED": 0.8010016679763794,
+    "dice_ET": 0.6504165530204773
+  },
+  {
+    "patient_id": "BraTS20_Training_084",
+    "tumor_voxels": 57075,
+    "dice_overall": 0.6985282897949219,
+    "dice_NCR_NET": 0.5494779944419861,
+    "dice_ED": 0.7705597877502441,
+    "dice_ET": 0.7755470871925354
+  },
+  {
+    "patient_id": "BraTS20_Training_187",
+    "tumor_voxels": 91560,
+    "dice_overall": 0.6629332900047302,
+    "dice_NCR_NET": 0.4465518891811371,
+    "dice_ED": 0.7130253911018372,
+    "dice_ET": 0.829222559928894
+  },
+  {
+    "patient_id": "BraTS20_Training_233",
+    "tumor_voxels": 16748,
+    "dice_overall": 0.48340001702308655,
+    "dice_NCR_NET": 0.08875739574432373,
+    "dice_ED": 0.6975496411323547,
+    "dice_ET": 0.6638931035995483
+  },
+  {
+    "patient_id": "BraTS20_Training_335",
+    "tumor_voxels": 136334,
+    "dice_overall": 0.696752667427063,
+    "dice_NCR_NET": 0.6832212805747986,
+    "dice_ED": 0.7102840542793274,
+    "dice_ET": 0.0
+  },
+  {
+    "patient_id": "BraTS20_Training_329",
+    "tumor_voxels": 62935,
+    "dice_overall": 0.5583570599555969,
+    "dice_NCR_NET": 0.6600885987281799,
+    "dice_ED": 0.45662549138069153,
+    "dice_ET": 0.0
+  },
+  {
+    "patient_id": "BraTS20_Training_052",
+    "tumor_voxels": 45951,
+    "dice_overall": 0.7692710757255554,
+    "dice_NCR_NET": 0.7712835669517517,
+    "dice_ED": 0.7385593056678772,
+    "dice_ET": 0.7979702353477478
+  },
+  {
+    "patient_id": "BraTS20_Training_352",
+    "tumor_voxels": 51790,
+    "dice_overall": 0.50018310546875,
+    "dice_NCR_NET": 0.055799197405576706,
+    "dice_ED": 0.6170183420181274,
+    "dice_ET": 0.8277317881584167
+  },
+  {
+    "patient_id": "BraTS20_Training_318",
+    "tumor_voxels": 212186,
+    "dice_overall": 0.5273657441139221,
+    "dice_NCR_NET": 0.5658252239227295,
+    "dice_ED": 0.5517589449882507,
+    "dice_ET": 0.4645130932331085
+  },
+  {
+    "patient_id": "BraTS20_Training_149",
+    "tumor_voxels": 256875,
+    "dice_overall": 0.6790756583213806,
+    "dice_NCR_NET": 0.48935604095458984,
+    "dice_ED": 0.7314850687980652,
+    "dice_ET": 0.8163856863975525
+  },
+  {
+    "patient_id": "BraTS20_Training_117",
+    "tumor_voxels": 78134,
+    "dice_overall": 0.8686068654060364,
+    "dice_NCR_NET": 0.7963340282440186,
+    "dice_ED": 0.9186708927154541,
+    "dice_ET": 0.8908157348632812
+  },
+  {
+    "patient_id": "BraTS20_Training_024",
+    "tumor_voxels": 95627,
+    "dice_overall": 0.731365978717804,
+    "dice_NCR_NET": 0.6387180089950562,
+    "dice_ED": 0.7692221999168396,
+    "dice_ET": 0.7861577868461609
+  },
+  {
+    "patient_id": "BraTS20_Training_036",
+    "tumor_voxels": 14830,
+    "dice_overall": 0.6266999840736389,
+    "dice_NCR_NET": 0.472328245639801,
+    "dice_ED": 0.6337312459945679,
+    "dice_ET": 0.7740403413772583
+  },
+  {
+    "patient_id": "BraTS20_Training_099",
+    "tumor_voxels": 7513,
+    "dice_overall": 0.5474944710731506,
+    "dice_NCR_NET": 0.0,
+    "dice_ED": 0.4711451232433319,
+    "dice_ET": 0.623843789100647
+  }
+]
