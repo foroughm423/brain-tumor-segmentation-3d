@@ -15,6 +15,9 @@ wandb/
 # Environment variables - contains secret tokens
 .env
 
+# Local-only requirements (GPU/CUDA version, for reference on brother's PC)
+requirements-local.txt
+
 # Python cache
 __pycache__/
 *.pyc
